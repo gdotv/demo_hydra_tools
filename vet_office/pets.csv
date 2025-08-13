@@ -1,0 +1,20 @@
+pet_id,name,animal_type,owner,owner_id
+1,Fiver,rabbit,Zara Beckham ,1
+2,Salem,cat,Sabrina Spellman,2
+3,Pongo,dog,Roger Radcliffe,3
+4,Slink,dog,Andy Davis,4
+5,Noodle,snake,Buffy Triggs,5
+6,Fuzz,wolf,Stacia Kirk ,6
+7,Garfield,cat,Jon Arbuckle,7
+8,Toast,dragon,Maeve O’Connor,8
+9,Pancake,ferret,Saar Lockwood ,9
+10,Mochi,cat,Willow Rosenberg,10
+11,Shadow,cat,Sean Hayden ,11
+12,Rocket,dog,Harry Dresden,12
+13,Lunchbox ,turtle,Karla Stainthorpe ,13
+14,Blob,rat,Buffy Triggs,5
+15,Quack,penguin,Elijah Nguyen,15
+16,Nimbus,clouded leopard,Raj Patel,14
+17,Tofu,dog,Karla Stainthorpe ,13
+18,Waffle,hedgehog,Sean Hayden ,11
+19,Potato,cat,Stacia Kirk ,6

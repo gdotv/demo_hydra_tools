@@ -1,0 +1,11 @@
+fight_id,pet_id_1,pet_name_1,pet_id_2,pet_name_2,date,time,reason_for_fight,Winner
+1,1,Fiver,5,Noodle,2023-08-15,14:30,"""Territorial dispute.""",Noodle
+2,3,Pongo,7,Garfield,2023-11-03,09:45,"""Competition over food.""",Pongo
+3,6,Fuzz,13,Lunchbox,2025-01-22,16:20,"""Territorial dispute.""",Lunchbox
+4,2,Salem,12,Rocket,2023-09-30,20:15,"""Territorial dispute.""",Rocket
+5,8,Toast,14,Blob,2023-12-10,11:00,"""Toast incinerated Blob’s cheese stash.""",Blob
+6,9,Pancake,16,Nimbus,2025-02-14,13:33,"""Identity theft.""",Pancake
+7,4,Slink,10,Mochi,2023-10-05,18:45,"""Competition over food.""",Mochi
+8,11,Shadow,17,Tofu,2024-03-01,10:10,"""Competition over food.""",Tofu
+9,15,Quack,18,Waffle,2025-07-19,07:22,"""Quack stole Waffle’s heat lamp.""",Quack
+10,19,Potato,5,Noodle,2024-04-18,22:00,"""Territorial dispute.""",Noodle
